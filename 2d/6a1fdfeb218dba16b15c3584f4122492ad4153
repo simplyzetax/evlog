@@ -1,0 +1,23 @@
+.changeset/workers-ctx-type.md
+  s_e3290c61db2257::t_9f5ec1834c8b5a 1-5
+packages/evlog/src/workers/index.ts
+  s_e3290c61db2257::t_b164c0ad94c5b7 96-99,101,105,109,201-204,206,210,215
+packages/evlog/test/workers/ctx-typing.test.ts
+  s_e3290c61db2257::t_aa77c99a9837df 1-31
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "2d6a1fdfeb218dba16b15c3584f4122492ad4153",
+  "prompts": {},
+  "sessions": {
+    "s_e3290c61db2257": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e9eaf8a5-1619-4f97-b285-c3ff763fedb9",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Finn <ernzerhofffinn@icloud.com>"
+    }
+  }
+}
